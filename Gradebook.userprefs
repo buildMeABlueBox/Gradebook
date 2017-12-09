@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{E5441AC7-9FBB-401A-9C4E-C0F60F9766BB}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Gradebook/Gradebook.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Gradebook.git Status">
     <Files>
       <File FileName="Gradebook/Program.cs" Line="1" Column="1" />
       <File FileName="Gradebook/Gradebook.cs" Line="9" Column="22" />
+      <File FileName="Gradebook.git Status" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
